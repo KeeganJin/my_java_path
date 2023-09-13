@@ -1,2 +1,15 @@
 # my_java_path
-Java learning resoruces, path and relevant projects 
+This includes my java learning path, 
+
+
+
+## Learning Resources
+
+
+
+
+
+
+
+## Current Learning Stage
+
