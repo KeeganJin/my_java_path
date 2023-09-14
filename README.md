@@ -39,3 +39,9 @@ https://www.bilibili.com/video/BV1fh411y7R8?p=21&spm_id_from=pageDriver&vd_sourc
 * Compilation and Execution of a Java Program
 * main() as the entrance; each source file has at most one public class, each class in .java file will create a .class file after compilation
 * More refer to notes in onenote  
+
+**Day2**
+
+* Comments
+* Basic data types
+* Need to speed up and skip most of the too basic contents
