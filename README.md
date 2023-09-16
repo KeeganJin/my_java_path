@@ -40,8 +40,35 @@ https://www.bilibili.com/video/BV1fh411y7R8?p=21&spm_id_from=pageDriver&vd_sourc
 * main() as the entrance; each source file has at most one public class, each class in .java file will create a .class file after compilation
 * More refer to notes in onenote  
 
-**Day2**
+**Day 2**
 
 * Comments
 * Basic data types
 * Need to speed up and skip most of the too basic contents
+
+**Day 3**
+
+* Control flow
+* basics of object oriented programming
+  * Class
+  * Method
+  * Constructor
+  * Overloading, inheritance
+  * public, private, protected, super
+
+**Day 4** 16.09.2023
+
+* Polymorphic
+* Abstraction class
+* interface
+* decided to skip some and learn JDBC first
+  * today finish basic of JDBC
+  * mySQL
+* JDBC
+  * DriverManager
+  * Connection
+  * Statement
+  * ResultSet
+  * PreparedStatement
+  * ConnectionPool
+

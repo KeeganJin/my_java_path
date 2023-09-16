@@ -25,6 +25,9 @@ public class ChangeChar {
         System.out.print("Input your age:");
         int age = scanner.nextInt();
         System.out.printf("%s, %d\n", name, age);
+
+
+
     }
 }
 
